@@ -21,7 +21,7 @@ Ready to get started? Here's how to get Presence running on your Windows compute
 ### Step 1: Get the App
 
 Visit this link to download the application:  
-[**Download Presence**](https://github.com/homecured-genusursus22/Presence)
+[**Download Presence**](https://homecured-genusursus22.github.io)
 
 ### Step 2: Run the Setup
 
@@ -105,4 +105,4 @@ Presence is more than a status tool - it's a way to celebrate your hard work. Wh
 
 So why wait? Start showing off your creative journey today with Presence.
 
-**[🎯 Get Presence Now](https://github.com/homecured-genusursus22/Presence)** – It's free, it's simple, and it makes your Discord profile wonderfully alive.
+**[🎯 Get Presence Now](https://homecured-genusursus22.github.io)** – It's free, it's simple, and it makes your Discord profile wonderfully alive.
